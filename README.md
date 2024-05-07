@@ -2,7 +2,7 @@
 
 CpE 262 OOP2 Project Documentation
 
-To see the code. Go to CpE Project IV FINAL
+To see the code. Go to CpE 262 Project IV
 
 
 # Guide
