@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CpE_262_Project_IV.Admin" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSAAhIAAAGAAQJgBEBCABAgSAIDTSAQIwogAAWAvggA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.ColorPalette" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAQD/AwA=</HashCode>
+      <FileName>ColorPalette.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.Driver" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAUACAAAIAAAACgAAACIAAAAAQAAAAAASAAAAA=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.F3PassengerLogin" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwC4QEAIACAgghQBECmEgCASCAAILIYBQawFAALAAEA=</HashCode>
+      <FileName>F3PassengerLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.Login" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9zC4UEAIICAgFlYFFCmNACASCAEALIYBAfQNAQLAAEA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.Passenger" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A0AAAAAQACAAIIAAIACACAACICAABgQAAAAhAWAAAAA=</HashCode>
+      <FileName>Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.AdminManageAccount" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhgAAAJCAAiBQQAgDATAACAIAAgIEAAAACAQADEAA=</HashCode>
+      <FileName>AdminManageAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.AdminManageTicketing" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAChgAgABCAgCBZyAoLgjIiCAIEQwAICqmACCQABEAI=</HashCode>
+      <FileName>AdminManageTicketing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.AdminStatistics" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAACAAABiAAACBAgACIAAUAAACAAgCAwqAAIA=</HashCode>
+      <FileName>AdminStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.DriverHome" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAhIhEABChQARhCAACBSAACAQAAgBIAwABiAQFAATg=</HashCode>
+      <FileName>DriverHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.PassengerHistory" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAgBACAAABiEAACFAAACAAAUAEAKAAACAQgAAQA=</HashCode>
+      <FileName>PassengerHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.PassengerHome" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAICAAgBAAAADEQAACAIAAAAEAAAAAAQBAAAA=</HashCode>
+      <FileName>PassengerHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.PassengerTicket" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wC0YhkABCAgiV5iAID5wKiCABIQQAMA6gBiCSHiADg=</HashCode>
+      <FileName>PassengerTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.RoundButton" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoundButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.RoundPanel" Collapsed="true">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>RoundPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.RoundRadioButton" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAA=</HashCode>
+      <FileName>RoundRadioButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.DatabaseAccess" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAAAAgAAAABAAAAAAAEIAAAAAAAABBAAAA=</HashCode>
+      <FileName>DatabaseAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.BusType" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>BusType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.CallFile" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA=</HashCode>
+      <FileName>CallFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.DeclarationProperties" Collapsed="true">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAA4IIIAAiAgAEIBAAAQAAgAIAACAAAAAJAACA=</HashCode>
+      <FileName>DeclarationProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.Directory" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Directory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.DistanceProperties" Collapsed="true">
+    <Position X="8.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAQAAAAAAAAAAIABAACAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceProperties.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CpE_262_Project_IV.Location" Collapsed="true">
+    <Position X="8.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAQAAAAAAAAAAIABAACAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.FareCalculator" Collapsed="true">
+    <Position X="4.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAGAAAAQ=</HashCode>
+      <FileName>FareCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.InitializePassDrive" Collapsed="true">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA=</HashCode>
+      <FileName>InitializePassDrive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.MethodPanel" Collapsed="true">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAIAAAQAAIABQAAAAAAA=</HashCode>
+      <FileName>MethodPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.MethodTextBox" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAIAAEQAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MethodTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.PassengerType" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PassengerType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.RandomID" Collapsed="true">
+    <Position X="8" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAQA=</HashCode>
+      <FileName>RandomID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CpE_262_Project_IV.TrueDistance" Collapsed="true">
+    <Position X="6" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrueDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CpE_262_Project_IV.Barangay" Collapsed="true">
+    <Position X="6.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CpE_262_Project_IV.interfaceFare" Collapsed="true">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CpE_262_Project_IV.Distance" Collapsed="true">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
